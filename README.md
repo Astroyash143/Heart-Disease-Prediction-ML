@@ -67,6 +67,3 @@ python predict.py    # demo prediction
 data/heart.csv  train.py  predict.py  requirements.txt
 figures/  (8 PNGs)   models/heart_model.joblib   outputs/  (metrics.json, CSVs)
 ```
-
-## Ideas to extend
-Add SHAP, a Streamlit/Gradio web app, external validation on the Statlog/Hungarian/Swiss UCI sets, calibration with `CalibratedClassifierCV`, cost-sensitive threshold tuning.
