@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/heart-disease-banner.png" 
+       alt="Heart Disease Prediction Project"
+       width="100%">
+</p>
 # Heart Disease Prediction — End-to-End ML Project
 
 Predicts whether a patient has heart disease from 13 clinical features (UCI Cleveland data, Kaggle copy).
