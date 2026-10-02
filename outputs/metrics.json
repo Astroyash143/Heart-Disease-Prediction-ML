@@ -1,0 +1,23 @@
+{
+  "selected_model": "Random Forest",
+  "best_params": {
+    "m__max_depth": 5,
+    "m__max_features": "sqrt",
+    "m__min_samples_leaf": 5
+  },
+  "n_train": 241,
+  "n_test": 61,
+  "accuracy": 0.8197,
+  "roc_auc": 0.8885,
+  "avg_precision": 0.8696,
+  "f1": 0.8,
+  "recall_sensitivity": 0.7857,
+  "precision": 0.8148,
+  "specificity": 0.8485,
+  "brier": 0.1368,
+  "leaky_raw_split_accuracy_for_comparison": 1.0,
+  "roc_auc_95ci": [
+    0.8,
+    0.9621
+  ]
+}
