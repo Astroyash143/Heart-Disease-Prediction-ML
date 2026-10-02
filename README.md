@@ -1,4 +1,6 @@
-![heart.png]
+<p align="center">
+  <img src="heart.png" alt="Heart Disease Prediction" width="100%">
+</p>
 # Heart Disease Prediction — End-to-End ML Project
 
 Predicts whether a patient has heart disease from 13 clinical features (UCI Cleveland data, Kaggle copy).
